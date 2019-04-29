@@ -1,5 +1,5 @@
 {
-    "name": "anywhere",
+    "name": "liaofangzhengqing / anywhere",
     "version": "1.0.0",
     "description": "NodeJS Web Server",
     "main": "src/app.js",
