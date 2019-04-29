@@ -1,3 +1,7 @@
+/**
+ * @description 用于解析文件后缀名，获取Content-Type
+ */
+
 const path = require('path');
 
 const contentTypes = {
